@@ -13,7 +13,7 @@ To minimize food wastage and maximize access to affordable meals.
 
 Every year about 40 million tons of food in the United States ends up in landfills. This equates to approximately 40% of the entire US food supply (source: https://www.rts.com/resources/guides/food-waste-america/). Restaurants and other food businesses are big contributors to these numbers as, at the end of the day, there is bound to be leftover food that inevitably goes to waste.
 
-We aim to build an extensive and dynamic marketplace with restaurants, bakeries, cafes and other businesses in the food industry. The product serves to any food suppliers and to anyone else with access to the internet as a consumer.
+We aim to build an extensive and dynamic marketplace with restaurants, bakeries, cafes and other businesses in the food industry. The product serves to any food suppliers and to anyone else with access to the internet as a consumer. It will allow for food business to log any food items that are available with them, and would rather go to waste, to be viewed by the general population that could potentially consume it to reduce wastage.
 
 ### **Our inspiration**
 
